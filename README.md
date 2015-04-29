@@ -1,12 +1,10 @@
 # [WeAreOpenSource.me](https://github.com/weareopensource) 
 
-## Fork of [AngleGradientBorderTutorial](https://github.com/ianhirschfeld/AngleGradientBorderTutorial)
+### Fork of [AngleGradientBorderTutorial](https://github.com/ianhirschfeld/AngleGradientBorderTutorial)
 
 #### Introduction  
 
 Sample code for creating a border filled with an angle gradient, on a UIimage, with animations, in iOS Swift. Fork for [WeAreOpenSource.me](https://github.com/weareopensource) projects. 
-
-[FORK : AngleGradientBorderTutorial](https://medium.com/@ianhirschfeld/how-to-create-an-angle-gradient-border-in-swift-f4856dde4c90)
 
 #### Screenshots
 
